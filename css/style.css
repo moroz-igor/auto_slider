@@ -1,0 +1,49 @@
+header{
+    text-align: center;
+}
+.proba{
+    text-align: center;
+    margin: 50px;
+    height: 150px;
+}
+.content{
+    text-align: center;
+    margin: 30px;
+    padding: 30px
+}
+.flex_container{
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -ms-flex-pack: distribute;
+    justify-content: space-around;
+    height: 300px;
+}
+.element_2{
+    min-width: 600px;
+    text-align: center;
+    margin-top: 5%;
+}
+.element{
+    padding-top: 17%;
+}
+.use{
+    text-align: center;
+    font-size: 14px;
+    color:cadetblue;
+    font-style: italic;
+    margin-top: 4%;
+}
+footer>a>i{
+   margin: 0px;
+}
+footer>p{
+    font-style: italic;
+    margin-top: 2%;
+}
+.row{
+    padding-top: 2%;
+    font-style: italic;
+    font-size: 12px
+}
+

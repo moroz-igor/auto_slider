@@ -1,0 +1,4 @@
+1)
+cd Dropbox\Web\Projects\Irregular Verbs
+2)
+sass --watch scss/style.scss:css/style.css
