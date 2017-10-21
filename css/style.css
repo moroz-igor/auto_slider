@@ -35,7 +35,7 @@ header{
     margin-top: 4%;
 }
 footer>a>i{
-   margin: 0px;
+   margin-top: 10px;
 }
 footer>p{
     font-style: italic;
@@ -45,5 +45,8 @@ footer>p{
     padding-top: 2%;
     font-style: italic;
     font-size: 12px
+}
+.row>div{
+    text-align: left;
 }
 
